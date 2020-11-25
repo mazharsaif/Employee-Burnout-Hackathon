@@ -20,16 +20,16 @@ test.csv (12250 x 8)
 
 sample_submission.csv (5 x 2)
 
-Variable Description :              Column Name	Description
-`Employee ID`                      	Unique Id of the employee
-`Date of Joining`                   Date on which the employee joined the company
-`Gender`	                          Gender of the employee
-`Company Type`	                    Type of company eg: Service based, product based etc.
-`WFH Setup Available`	              Whether proper work from home setup is available or not 
-`Designation`	                      Seniority level of the employee in codes
-`Resource Allocation`               Hours allocated per day
-`Mental Fatigue`                    Score	Stress rating provided by employees
-`Burn Rate`	                        Rate of saturation or burn out rate [Target]
+Variable Description :              Column Name	Description  
+`Employee ID`                      	Unique Id of the employee  
+`Date of Joining`                   Date on which the employee joined the company  
+`Gender`	                          Gender of the employee  
+`Company Type`	                    Type of company eg: Service based, product based etc.  
+`WFH Setup Available`	              Whether proper work from home setup is available or not   
+`Designation`	                      Seniority level of the employee in codes  
+`Resource Allocation`               Hours allocated per day  
+`Mental Fatigue`                    Score	Stress rating provided by employees  
+`Burn Rate`	                        Rate of saturation or burn out rate [Target]  
 Submission format
 You are required to write your predictions in a .csv file that contain the following columns:
 
